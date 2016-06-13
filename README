@@ -1,3 +1,10 @@
+test_akaze.py 測試 kaze演算法
+capturing.py 滑鼠截圖
+face.py 簡易臉部辨識
+find.py 比對模板 = matchTemplate
+
+
+參考：
 http://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/
 
 http://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx/
